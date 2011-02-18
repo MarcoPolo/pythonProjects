@@ -3,7 +3,7 @@ isnum=True
 
 
 def main():
- print 'Think of a number between 1-1000'
+ print 'Think of a number between 0-999'
  findNum(0,1000)
 
 
